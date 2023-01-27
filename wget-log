@@ -1,0 +1,11 @@
+--2022-10-21 12:27:03--  http://1.gravatar.com/avatar/47db31bd2e0b161008607d84c74305b5?s=96
+Resolving 1.gravatar.com (1.gravatar.com)... 192.0.73.2, 2a04:fa87:fffe::c000:4902
+Connecting to 1.gravatar.com (1.gravatar.com)|192.0.73.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3318 (3.2K) [image/jpeg]
+Saving to: ‘47db31bd2e0b161008607d84c74305b5?s=96’
+
+47db31bd2e0b161008607d84c74305b5?s=96          0%[                                                                                            ]       0  --.-KB/s               47db31bd2e0b161008607d84c74305b5?s=96        100%[===========================================================================================>]   3.24K  --.-KB/s    in 0s      
+
+2022-10-21 12:27:03 (195 MB/s) - ‘47db31bd2e0b161008607d84c74305b5?s=96’ saved [3318/3318]
+
