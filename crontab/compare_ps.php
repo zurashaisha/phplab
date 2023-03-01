@@ -5,7 +5,7 @@ require "/var/www/html/project/commands.php";
 #$dev_bng=$conn->query("SELECT ip, devserial from devices where dev_role='BNG");
 #foreach ($dev_bng as $bng_from_db) {
     #$current_bng=$bng_from_db["devserial"];
-    $current_bng="JN126DF40JCB";
+    $current_bng="JN126E1BBJCB";
     $ps_int_bng=$conn->query("SELECT ps_int, backup_bng from ps_int where bng='$current_bng'");
     foreach ($ps_int_bng as $each_ps_int) {
         $ps_subif_array = array();
